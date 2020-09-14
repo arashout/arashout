@@ -3,7 +3,7 @@
 #### I'm a Software Engineer working in Vancouver, Canada.
 
 - 🏢 I'm currently working at **Infoblox**
-- ⚙️ I use daily: `.go`, `.yaml`, `.rust`
+- ⚙️ I use daily: `.go`, `.yaml`, `.py`, `.ipynb`, `.csv`, `.rust`
 - 🌱 Learning all about **Rust** and **LeetCode**
 - 💬 Ping me about **open source projects**, **job oppurtunities**
 - 📫 Reach me: [linkedin.com/in/arashout)](https://www.linkedin.com/in/arashout/)

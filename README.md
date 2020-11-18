@@ -2,7 +2,7 @@
 
 #### I'm a Software Engineer working in Vancouver, Canada.
 
-- 🏢 I'm currently working at **Infoblox**
+- 🏢 I'm currently working at **KeepTruckin**
 - ⚙️ I use daily: `.go`, `.yaml`, `.py`, `.ipynb`, `.csv`, `.rust`
 - 🌱 Learning all about **Rust** and **LeetCode**
 - 💬 Ping me about **open source projects**, **job oppurtunities**
